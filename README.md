@@ -64,7 +64,6 @@
    
    
    + **高级数据筛选**
-   + 
    ```python img_advanced_filter.py```
    ```
     97  root_dir = "./face_"
