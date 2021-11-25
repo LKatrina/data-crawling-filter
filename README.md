@@ -54,7 +54,6 @@
   运行相应的三文件的root_dir和file_suffix参数
  + **运行**
    + **初级筛选**
-   + 
    + ```python img_primary_filter.py```
     ```
    33  root_dir = "../../Image-Downloader-master/download_images/face_"
