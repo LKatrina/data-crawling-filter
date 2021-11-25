@@ -62,6 +62,7 @@
    ```python img_advanced_filter.py```
    + 筛选结果
      umap的点明显更聚集，可通过umap的点辅助筛选，以真实人脸为基点向周围查找提高筛选效率
+     
      ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
      ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/umap.png)
      + 示例，0类聚集都为相似的表情包
