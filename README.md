@@ -35,7 +35,7 @@
   + 同时包含人脸相关的非真实人脸图片
   + 包含与人脸完全不相关的图片
   
-  ![need](https://github.com/LKatrina/data-crawling-filter/blob/main/img/需要的人脸.png)
+  ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/需要的人脸.png)
   
 + **筛选目标**
   + 剔除一张图中包含很多人脸的图片
@@ -44,7 +44,7 @@
   + 剔除有遮挡的人脸
   + 剔除采集设备中较小的人脸
   + 剔除与人脸毫不相关的图片
-  [no_need](https://github.com/LKatrina/data-crawling-filter/blob/main/img/不需要的人脸.png)
+  [imgae](https://github.com/LKatrina/data-crawling-filter/blob/main/img/不需要的人脸.png)
   
   
 
