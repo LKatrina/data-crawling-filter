@@ -44,9 +44,13 @@
   + 剔除有遮挡的人脸
   + 剔除采集设备中较小的人脸
   + 剔除与人脸毫不相关的图片
-  [imgae](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
+  ![imgae](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
+  
   <img src="img/tsne.png" alt="t-sne" style="zoom:72%;" />
   
++ **数据筛选**
+ + **数据加载**
+ 运行相应的三文件的root_dir和file_suffix参数
   
   
 
