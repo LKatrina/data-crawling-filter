@@ -66,6 +66,12 @@
    + **高级数据筛选**
    + 
    ```python img_advanced_filter.py```
+   ```
+    97  root_dir = "./face_"
+    98  # check dir
+    99  file_suffix = "jpeg|jpg|png"
+    100 remove_dir = root_dir + "/remove"
+    ```
    + 筛选结果
      umap的点明显更聚集，可通过umap的点辅助筛选，以真实人脸为基点向周围查找提高筛选效率
      
