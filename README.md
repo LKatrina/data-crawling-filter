@@ -56,10 +56,11 @@
    + **初级筛选**
    + 
    + ```python img_primary_filter.py```
-   + ```
+    ```
    33  root_dir = "../../Image-Downloader-master/download_images/face_"
    34  file_suffix = "jpeg|jpg|png"
-   35  remove_dir = root_dir + "/remove"```
+   35  remove_dir = root_dir + "/remove"
+   ```
    ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/img_info_1.png)
    
    
