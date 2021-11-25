@@ -49,12 +49,21 @@
   <img src="img/tsne.png" alt="t-sne" style="zoom:72%;" />
   
 + **数据筛选**
- + **数据加载**
- 运行相应的三文件的root_dir和file_suffix参数
- + **运行**
-  + **初级筛选**
-  + ```python img_primary_filter.py
-  ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
+  + **数据加载**
   
+  运行相应的三文件的root_dir和file_suffix参数
+ + **运行**
+   + **初级筛选**
+   + ```python img_primary_filter.py```
+   + 
+   ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/img_info_1.png)
+   
+   
+  + **高级数据筛选**
+   ```python img_advanced_filter.py```
+   + 筛选结果
+   + ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
+   + ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/umap.png)
+   
   
 
