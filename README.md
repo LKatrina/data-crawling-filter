@@ -45,6 +45,8 @@
   + 剔除采集设备中较小的人脸
   + 剔除与人脸毫不相关的图片
   [imgae](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
+  <img src="img/tsne.png" alt="t-sne" style="zoom:72%;" />
+  
   
   
 
