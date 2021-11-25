@@ -42,4 +42,5 @@
   + 剔除有遮挡的人脸
   + 剔除采集设备中较小的人脸
   + 剔除与人脸毫不相关的图片
+  ![noneed](https://github.com/LKatrina/data-crawling-filter/blob/main/img/不需要的人脸.png)
 
