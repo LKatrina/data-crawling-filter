@@ -54,18 +54,21 @@
   运行相应的三文件的root_dir和file_suffix参数
  + **运行**
    + **初级筛选**
+   + 
    + ```python img_primary_filter.py```
    ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/img_info_1.png)
    
    
-  + **高级数据筛选**
+   + **高级数据筛选**
+   + 
    ```python img_advanced_filter.py```
    + 筛选结果
      umap的点明显更聚集，可通过umap的点辅助筛选，以真实人脸为基点向周围查找提高筛选效率
      
      ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
      ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/umap.png)
-     + 示例，0类聚集都为相似的表情包
+     
+    + 示例，0类聚集都为相似的表情包
      ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/表情.png)
    
   
