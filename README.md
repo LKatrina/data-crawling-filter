@@ -51,6 +51,10 @@
 + **数据筛选**
  + **数据加载**
  运行相应的三文件的root_dir和file_suffix参数
+ + **运行**
+  + **初级筛选**
+  + ```python img_primary_filter.py
+  ![image](https://github.com/LKatrina/data-crawling-filter/blob/main/img/tsne.png)
   
   
 
